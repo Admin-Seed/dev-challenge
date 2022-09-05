@@ -64,7 +64,7 @@ Assim:
 Keep it Simple!  :)
 
 
-#### Em caso de dúvidas, abra uma issue. ;)
+#### Em caso de dúvidas, abra uma [issue](https://github.com/Admin-Seed/dev-challenge/issues). ;)
 
 
 
