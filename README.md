@@ -4,7 +4,7 @@ Desafio para você que quer trabalhar conosco!
 ## Instruções
 
 <ol>
-  <li>Clone este repositório e crie uma nova branch com seu nome (por exemplo, nome-sobrenome)</li>
+  <li>Clone este repositório</li>
   <li>Seu objetivo principal é transformar o desafio em um protótipo funcional.</li>
   <li>Crie um diretório chamado src no projeto e coloque todos os arquivos que você criar dentro dessa pasta.</li>
   <li>Após concluir o desafio, envie o código por e-mail para a pessoa do time que lhe forneceu as instruções.</li>
