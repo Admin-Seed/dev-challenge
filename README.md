@@ -36,11 +36,6 @@ Para isso:
 - Tornar o projeto responsivo
 - Fique a vontade para usar [Bootstrap](https://getbootstrap.com), pode ser uma boa ideia para acelerar o processo de design
 
-### Recursos Bônus (opcional)
-- Adicionar filtros avançados para refinar a busca, como filtros por data, categoria, etc.
-- Implementar testes E2E
-- Implementar testes unitários
-
 ## Backend
 
 No lado do Backend, o desafio será criar uma API REST para o nosso buscador.
@@ -50,12 +45,11 @@ Siga as seguintes instruções:
 - Na pasta "data", há um arquivo JSON para cada tabela do sistema, representando o banco de dados. Sua aplicação deverá ler esses arquivos durante a busca.
 - Exponha um serviço de consulta que receba uma string com o texto buscado e retorne com os objetos encontrados em todas as tabelas do sistema
 - Normalize os dados antes de enviar para o cliente.
+- Criar uma documentação da API utilizando swagger ou outra ferramenta similar.
 
 ### Recursos Bônus (opcional)
-- Criar uma documentação da API utilizando swagger ou outra ferramenta similar.
-- Implementar uma camada de cache para melhorar o desempenho da busca
-- Implementar testes automatizados
-- Implementar testes unitários
+
+- Implementar testes e2e
 
 ## Integração Frontend e Backend
 
@@ -67,9 +61,6 @@ Assim:
 - O backend lerá os arquivos de dados e buscará quais objetos correspondem ao texto buscado.
 - O backend retornará uma lista dos resultados encontrados.
 - O frontend exibirá os resultados agrupados por tipo de objeto.
-
-### Recursos Bônus (opcional)
-- Implementar uma funcionalidade de exportação dos resultados para CSV ou Excel.
 
 
 ##  Dicas?
