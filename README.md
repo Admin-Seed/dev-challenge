@@ -29,7 +29,7 @@ Para isso:
 
 - HTML5/CSS3/JS e  noções básicas de design
 - Faça bom uso das tags HTML5 e CSS3
-- Utilizar [AngularJS](https://angularjs.org) ou ([React](https://github.com/facebook/react), [Angular2+](https://github.com/angular/angular), [Vue.js](https://github.com/vuejs/vue))
+- Utilizar [AngularJS](https://angularjs.org) ou ([Angular2+](https://github.com/angular/angular), [Vue.js](https://github.com/vuejs/vue))
 - A pasta "layout" possui uma imagem de referência para o resultado e a logomarca já exportada para caso precise
 - Inicialmente, crie um arquivo JSON chamado "data.json" com os dados de exemplo que serão utilizados para renderizar sua aplicação
 - Sua aplicação deverá consultar seu arquivo JSON e responder com os objetos encontrados, simulando a consulta a uma API
