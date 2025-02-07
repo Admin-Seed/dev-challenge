@@ -34,7 +34,7 @@ Para isso:
 - Inicialmente, crie um arquivo JSON chamado "data.json" com os dados de exemplo que serão utilizados para renderizar sua aplicação
 - Sua aplicação deverá consultar seu arquivo JSON e responder com os objetos encontrados, simulando a consulta a uma API
 - Tornar o projeto responsivo
-- Fique a vontade para usar [Bootstrap](https://getbootstrap.com), pode ser uma boa ideia para acelerar o processo de design
+- Fique a vontade para usar algum framework de estilos como [Bootstrap](https://getbootstrap.com).
 
 ## Backend
 
@@ -61,7 +61,6 @@ Assim:
 - O backend lerá os arquivos de dados e buscará quais objetos correspondem ao texto buscado.
 - O backend retornará uma lista dos resultados encontrados.
 - O frontend exibirá os resultados agrupados por tipo de objeto.
-
 
 ##  Dicas?
 
